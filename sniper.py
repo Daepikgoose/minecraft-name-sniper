@@ -11,7 +11,7 @@ headers = {
 }
 
 api = "https://api.mojang.com/users/profiles/minecraft/"
-webhook = ""
+webhook = "https://discord.com/api/webhooks/1540098467853238293/PIYovFb24jZJrKm65ZaScMyLeA8CUIfo20WV-0HacXfCNH1YmWyDDlOH46vq0_GxvLsx"
 
 locktime = 5184000
 length = 4
